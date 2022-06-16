@@ -1,2 +1,2 @@
-# Introducci-n-a-la-Programaci-n-Lineal-con-Python-y-Gurobi
+# Introduccion-a-la-Programacion-Lineal-con-Python-y-Gurobi
 Este cuaderno de trabajo en Jupyter pretende hacer una introducción a la programación lineal a partir de ejemplos prácticos extraídos del libro Métodos cuantitativos para la administración.  La aplicación de la programación lineal se realizará mediante el lenguaje de programación Python y la librería Gurobipy.  Bibliografía: Hillier, F., Hillier, M., Schmedders, K., Stephens, M. (2008). Quantitative Methods for Administration. (3° Ed.). Mexico: McGraw-Hill Interamericana.
